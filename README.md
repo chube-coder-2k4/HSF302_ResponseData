@@ -1,10 +1,4 @@
-```text
- __ __|                  |
-    |   _` |  |   |      |   _` | \ \   /  _` |  \ \   /  __ \
-    |  (   |  |   |  \   |  (   |  \ \ /  (   |   \ \ /   |   |
-   _| \__,_| \__, | \___/  \__,_|   \_/  \__,_| _) \_/   _|  _|
-             ____/ Lập Trình Java Từ A-Z
- 
+
    Website: https://tayjava.vn
    Youtube: https://youtube.com/@tayjava 
    TikTok: https://tiktok.com/@tayjava.vn 
