@@ -1,12 +1,9 @@
 
-   Website: https://tayjava.vn
-   Youtube: https://youtube.com/@tayjava 
-   TikTok: https://tiktok.com/@tayjava.vn 
-```
+
 ## Prerequisite
-- Cài đặt JDK 17+ nếu chưa thì [cài đặt JDK](https://tayjava.vn/cai-dat-jdk-tren-macos-window-linux-ubuntu/)
-- Install Maven 3.5+ nếu chưa thì [cài đặt Maven](https://tayjava.vn/cai-dat-maven-tren-macos-window-linux-ubuntu/)
-- Install IntelliJ nếu chưa thì [cài đặt IntelliJ](https://tayjava.vn/cai-dat-intellij-tren-macos-va-window/)
+- Cài đặt JDK 17+ 
+- Install Maven 3.5+ 
+- Install IntelliJ 
 
 ## Technical Stacks
 - Java 17
